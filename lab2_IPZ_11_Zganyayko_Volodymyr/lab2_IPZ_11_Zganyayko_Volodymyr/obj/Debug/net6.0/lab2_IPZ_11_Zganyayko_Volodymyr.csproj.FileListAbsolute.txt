@@ -1,0 +1,15 @@
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\bin\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.exe
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\bin\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.deps.json
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\bin\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.runtimeconfig.json
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\bin\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.dll
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\bin\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.pdb
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.csproj.AssemblyReference.cache
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.AssemblyInfoInputs.cache
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.AssemblyInfo.cs
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.csproj.CoreCompileInputs.cache
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.dll
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\refint\lab2_IPZ_11_Zganyayko_Volodymyr.dll
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.pdb
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\lab2_IPZ_11_Zganyayko_Volodymyr.genruntimeconfig.cache
+C:\Users\Nout\Documents\C#\АСД\lab2_IPZ_11_Zganyayko_Volodymyr\lab2_IPZ_11_Zganyayko_Volodymyr\obj\Debug\net6.0\ref\lab2_IPZ_11_Zganyayko_Volodymyr.dll
